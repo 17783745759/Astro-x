@@ -1,0 +1,50 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Product",
+      "url": "/blog"
+    },
+
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Service",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Quick Start",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        {
+          "text": "Features",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "Service",
+          "url": "/faq"
+        }
+      ]
+    }
+  ]
+}
